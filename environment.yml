@@ -1,0 +1,6 @@
+name: test
+channels:
+  - anaconda-fusion
+  - defaults
+prefix: d:\Anaconda3\envs\test
+
